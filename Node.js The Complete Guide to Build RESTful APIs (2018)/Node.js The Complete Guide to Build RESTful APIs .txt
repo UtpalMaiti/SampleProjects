@@ -1,0 +1,156 @@
+npm --version
+npm init 
+npm init --yes
+npm I -g npm
+npm install -g npm --save
+npm I -g npm@versionno
+npm list 
+npm list --depth=0
+npm view mongoose
+npm view mongoose dependencies 
+npm view mongoose versions
+npm view mongoose@2.4.2
+npm outdated
+npm -g outdated
+npm update
+npm i -g npm-check-updates
+npm-check-updates
+ncu -u
+ncu -a
+npm i
+npm i jshint --save-dev
+npm audit
+npm audit fix
+npm uninstall mongoose
+npm un git
+
+npm adduser
+npm login
+npm publish
+npm version major
+npm version minor
+npm version patch
+npm publish
+
+npm yo
+npm angular-cli-ghpages
+npm firebase-tools
+npm generator-aspnetcore-spa
+npm webpack
+npm typescript
+npm @angular/cli
+
+npm i express
+npm i -g nodemon
+
+process.env.PORT
+
+Enviremet variable set in windows(set),Mac(export)
+set PORT=5000;
+
+rc //for configuration Metadata
+config //for configuration Metadata
+debug  /for debug tool
+set app_password=123456custom-environment-variables.json
+
+mkdir -p /data/db
+
+chown -R `I'd -un` /data/db     //MAC OS
+
+mongooes //Mogo Db
+
+mongoimport --db mongo-exercises --collection courses --file exercises-data.json --jsonArray
+
+fawn  //Promise based Library for transactions in MongoDB
+joi-objctid  // ObjectId Checking
+lodash //API Data filter send or receive tool
+joi-password-complexity  /for password complexity validation 
+bcrypt  //password hashing
+jwt
+jsonwebtoken //encreption of Json Data Encoder and decoder
+express-async-errors //for run time error handling 
+Winston    for error logging
+Winston-mongodb    for error logging in mongobd
+
+processManager too for Node
+
+Unit Testing
+
+Jasmine
+Mocha
+Jest
+
+npm I Jest  for Unit Testing
+
+test : 'jest --watchAll --verbose'
+
+cmd >>npm test
+
+
+Integrating Testing
+npm i supertest --save-dev
+
+
+test : 'jest --watchAll --verbose --covarge'
+
+npm I moment   for Date
+
+npm I Helmet
+
+npm I Compression  Http Cmprssion
+
+Heroku Cli 
+
+Heroku Login
+
+set HTTP_PROXY=http://proxy.server.com:1234
+
+"Start" : "node Index.js"
+
+"engines" :{
+ "node" : "8.9.1"
+}
+
+git --version
+
+git init
+
+git add .
+
+git commit -m "First commit."
+
+Project folder 
+Heroku Create vidly /<no naame>
+git remote -v		//list of Remote git Repository 
+
+heroku logs
+
+Run Console In Heroku Website.
+bash
+ls
+cat/ls uncoughtexception.log
+
+
+Heroku confit:set vidly_jwtPrivateKey=1234
+
+heroku confit:set NODE_ENV=production
+
+heroku config
+
+
+Heroku Website >>Add-ons >>mlab MongoDB
+
+
+"db" : "vidly_db"
+
+
+heroku condig:set vidly_db=mongodb://<dbuser>:<dbpassword>@ds062178.mlab.com:62178/vidly0902
+
+heroku condig:set vidly_db=mongodb://vidlyuser:sBtstRW4dzZtpC7@ds062178.mlab.com:62178/vidly0902
+
+git add .
+
+git commit -m "Add support for connStr via an env Variable"
+
+git push heroku master
+
