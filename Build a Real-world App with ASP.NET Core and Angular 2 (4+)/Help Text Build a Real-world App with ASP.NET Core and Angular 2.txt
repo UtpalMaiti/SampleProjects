@@ -1,0 +1,100 @@
+Yeoman   //package
+
+npm install -g yo generator-aspnetcore-spa
+
+docker.com
+
+ MAC OR LINUX
+
+docker pull microsoft/mysql-server-linux
+
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=MyComplexPassword!1234'
+-p 1433:1433 -v /user/my/db:/var/opt/mssql
+
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=MyComplexPassword!1234'
+-p 1433:1433 -d microsoft/mssql-linux
+
+MacsqlClient Application
+
+docker ps 
+ docker stop <first 4 letter of Docker Id>
+
+docker ps -a
+
+docker cp <4 first 4 letter docker id>:/var/opt/mssql/log/errorlog .
+
+ls
+
+mkdir vega
+ yo aspnetcore-spa
+
+dotnet new angular
+
+dotnet run
+
+Set ASPNETCORE_Environment="Development" 
+
+.net Watch Tool
+
+Dotnet Restore
+
+dotnet watch run
+
+$ npm install
+$ dotnet restore
+$ webpack --config webpack.config.vendor.js
+$ webpack 
+$ dotnet watch run 
+
+npm TypeScript Hero
+Angular Language Service
+Bracket Pair Colorizer
+Move TS
+Material Icon Theme
+Angular TypeScript Snippets
+
+dotnet add package Microsoft.Dotnet.Watcher.Tools
+dotnet add package Microsoft.EntityFrameworkCore.sqlserver
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Tools.Dotnet
+dotnet restore 
+
+dotnet ef
+dotnet ef migrations add InitialModel
+dotnet ef migrations remove
+
+dotnet ef database update
+dotnet ef database update 0
+dotnet ef migrations remove
+dotnet ef migrations add SeedDatabase
+dotnet ef database update
+
+npm i
+
+webpack --config webpack.config.vendor.js
+
+Webpack
+
+Automapper
+
+dotnet add package Automapper
+
+dotnet add package Automapper.Extensions.Microsoft.DependencyInjection --version 1.2.0
+dotnet restore 
+
+npm i @angular/cli@latest -g
+NG new hello-world
+.angular-cli.json copy to the Project
+npm i @angular/cli@latest -g --save-dev
+
+ng g component Vehicle-form
+ng generate c Vehicle-form --module app
+{ path: 'vehicles/new', component: VehicleFormComponent },
+ng generate g s make
+
+
+npm I underscore
+
+npm I @types/underscore
+
+
