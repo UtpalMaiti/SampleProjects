@@ -24,7 +24,7 @@ https://aspnetboilerplate.com/Templates
 
 
 
-    Training
+    1.Training-Learning-Research-Analysis
 
         ASP.NET MVC with Angular 2.x, 14.x, Entity framework, WEBAPI & .NET core, AngularJS 1.x
         Complete-AngularJS
