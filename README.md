@@ -24,9 +24,10 @@ https://aspnetboilerplate.com/Templates
 
 
 
+# 1.Training-Learning-Research-Analysis
+https://github.com/UtpalMaiti/1.Training-Learning-Research-Analysis
 
-LearningThings
-https://github.com/UtpalMaiti/LearningThings
+
 
 # Online-training-and-certification-courses
 
@@ -50,7 +51,7 @@ https://github.com/UtpalMaiti/LearningThings
 
 1. PluralSight-Angular-Fundamentals
 
-    1.Training-Learning-Research-Analysis
+    
 
 
 
