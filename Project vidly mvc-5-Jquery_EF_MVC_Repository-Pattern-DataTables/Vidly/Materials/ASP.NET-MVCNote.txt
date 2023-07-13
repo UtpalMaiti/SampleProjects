@@ -1,0 +1,23 @@
+Imaportant NuGet Package Manager Console Commend
+
+enable-migrations
+add-migration Initialmodel			(First)
+cls
+add-migration Initialmodel -force    (Already Exitig)
+
+Update-database
+
+
+Add-migration AddIsSubcribedToCustomer  (To adding IsSubcribedToNewsletter Property in Customer Table)
+Update-database
+
+Add-migration AddMembershipType
+Update-database
+
+Add-migration ApplyAnnotationsToCustomerName
+Update-database
+
+
+ASP WBP API
+
+Install-package automapper -version:4.1
