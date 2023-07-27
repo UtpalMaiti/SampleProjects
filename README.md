@@ -21,6 +21,10 @@ https://aspnetboilerplate.com/Templates
 
     Learn to build fast and secure web applications with ASP.NET MVC 5 -the-complete-aspnet-mvc-5-course
     Project vidly mvc-5-Jquery_EF_MVC_Repository-Pattern-DataTables
+    
+    Microservices-Architecture-eShopOnContainers
+    https://github.com/UtpalMaiti/Microservices-Architecture-eShopOnContainers
+    https://github.com/dotnet-architecture/eShopOnContainers
 
 
 
